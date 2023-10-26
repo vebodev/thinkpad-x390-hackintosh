@@ -1,5 +1,7 @@
 # Hackintosh Thinkpad X390 Ventura (13.4 - OC 0.9.2)
 
+IMPORTANT NOTICE: DO NOT CLICK "Reset NvRAM" FROM OC, X390 WILL BE BRICK!!!
+
 ## Table of Contents
 
 - [Hackintosh Thinkpad X390 Ventura (13.4 - OC 0.9.2)](#hackintosh-thinkpad-x390-ventura-134---oc-092)
